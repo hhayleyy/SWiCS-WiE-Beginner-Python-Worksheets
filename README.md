@@ -19,4 +19,4 @@ The aim of these exercises are to introduce students to python if they've never 
   
 The other sessions can be found here:
 * [Intermediate](https://github.com/wrmthorne/SWiCS-WIE-Intermediate-Python-Worksheets)
-* [Advanced] (https://github.com/wrmthorne/SWiCS-WIE-Advanced-Python-Worksheets)
+* [Advanced](https://github.com/wrmthorne/SWiCS-WIE-Advanced-Python-Worksheets)
